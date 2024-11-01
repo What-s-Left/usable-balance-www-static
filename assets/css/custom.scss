@@ -1,0 +1,37 @@
+html, body {
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 300;
+  background: transparent url("/assets/img/bg.png") repeat 0 0;
+}
+
+h1, h2, h3, h4, h5
+{
+  font-family: 'Poppins', sans-serif;
+}
+
+em
+{
+  font-style: normal;
+  color: $primary;
+}
+
+mark
+{
+  color: #8E00FD;
+}
+
+ul
+{
+  li
+  {
+    text-align: left;
+  }
+}
+
+.homepage-banner
+{
+  background-image: url("../img/homepage/banner-1.jpg");
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
