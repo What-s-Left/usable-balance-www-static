@@ -11845,7 +11845,7 @@ textarea.form-control-lg {
   }
 }
 html, body {
-  font-family: "Lexend Deca", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 300;
   background: transparent url("https://www.usablebalance.com/assets/cdn/assets/img/bg.png") repeat 0 0;
 }
@@ -11873,5 +11873,3 @@ ul li {
   background-size: cover;
   background-repeat: no-repeat;
 }
-
-/*# sourceMappingURL=app.css.map */
